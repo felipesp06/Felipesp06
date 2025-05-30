@@ -1,11 +1,14 @@
 ## Olá, eu sou o Felipesp06!
+
+
+[snake gif](https://github.com/felipesp06/Felipesp06/blob/output/github-contribution-grid-snake.gif)
+
+
+
 <div>
   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=Felipesp06&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipesp06&layout=compact&langs&count=16&theme=dracula"/>
-
-
-
-
+</div>
 
 
 <div style="display: inline_block"><br>
@@ -28,4 +31,3 @@
 
 </div>
 
-![Snake animation](https://felipesp06.github.io/Felipesp06/github-contribution-grid-snake.svg)
