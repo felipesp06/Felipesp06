@@ -1,7 +1,7 @@
 ## Olá, eu sou o Felipesp06!
 
 
-[snake gif](https://github.com/felipesp06/Felipesp06/blob/output/github-contribution-grid-snake.gif)
+
 
 
 
@@ -30,4 +30,4 @@
   <a href="https://br.linkedin.com/in/felipe-oliveira-de-souza-993ba9331" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 </div>
-
+![snake gif](https://github.com/felipesp06/Felipesp06/blob/output/github-contribution-grid-snake.gif)
